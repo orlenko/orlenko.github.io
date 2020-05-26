@@ -8,7 +8,7 @@ In 20 years of writing software, I’ve covered a lot of ground.
 I am looking for a role where my skills and experience could bring maximum value to the table.
 
 
-### Resume
+### Resume / LinkedIn
 
-Please download [Vlad Orlenko's resume here](./Vlad-Orlenko-Resume-2020-05.pdf).
-
+Please download [Vlad Orlenko's resume here](./Vlad-Orlenko-Resume-2020-05.pdf), 
+or see my [LinkedIn profile](https://www.linkedin.com/in/vlad-orlenko/).
